@@ -1,0 +1,336 @@
+csv_row_id,commune_name,commune_code,office,election_date,wp_election_id
+1,Algarrobo,56001,Alcalde,2024-10-27,190
+2,Alhué,13502,Alcalde,2024-10-27,94
+3,Alto Biobío,81301,Alcalde,2024-10-27,364
+4,Alto Hospicio,21102,Alcalde,2024-10-27,150
+5,Alto del Carmen,31302,Alcalde,2024-10-27,166
+6,Ancud,10117,Alcalde,2024-10-27,441
+7,Andacollo,41103,Alcalde,2024-10-27,175
+8,Angol,91201,Alcalde,2024-10-27,397
+9,Antofagasta,22101,Alcalde,2024-10-27,157
+10,Antuco,81302,Alcalde,2024-10-27,365
+11,Arauco,81201,Alcalde,2024-10-27,366
+12,Arica,15101,Alcalde,2024-10-27,146
+13,Aysén,11103,Alcalde,2024-10-27,471
+14,Buin,13402,Alcalde,2024-10-27,95
+15,Bulnes,16101,Alcalde,2024-10-27,343
+16,Cabildo,54002,Alcalde,2024-10-27,191
+17,Cabrero,81303,Alcalde,2024-10-27,367
+18,Calama,22201,Alcalde,2024-10-27,158
+19,Calbuco,10102,Alcalde,2024-10-27,442
+20,Caldera,31102,Alcalde,2024-10-27,167
+21,Calera de Tango,13403,Alcalde,2024-10-27,96
+22,Calle Larga,53001,Alcalde,2024-10-27,193
+23,Camarones,15102,Alcalde,2024-10-27,147
+24,Camiña,21202,Alcalde,2024-10-27,151
+25,Canela,41202,Alcalde,2024-10-27,176
+26,Carahue,91102,Alcalde,2024-10-27,398
+27,Cartagena,56002,Alcalde,2024-10-27,194
+28,Casablanca,51002,Alcalde,2024-10-27,195
+29,Castro,10118,Alcalde,2024-10-27,443
+30,Catemu,57001,Alcalde,2024-10-27,196
+31,Cauquenes,71401,Alcalde,2024-10-27,313
+32,Cañete,81202,Alcalde,2024-10-27,368
+33,Cerrillos,13102,Alcalde,2024-10-27,97
+34,Cerro Navia,13103,Alcalde,2024-10-27,98
+35,Chaitén,10127,Alcalde,2024-10-27,444
+36,Chanco,71402,Alcalde,2024-10-27,314
+37,Chañaral,31201,Alcalde,2024-10-27,168
+38,Chiguayante,81103,Alcalde,2024-10-27,369
+39,Chile Chico,11109,Alcalde,2024-10-27,472
+40,Chillán,16102,Alcalde,2024-10-27,344
+41,Chillán Viejo,16103,Alcalde,2024-10-27,345
+42,Chimbarongo,61303,Alcalde,2024-10-27,281
+43,Chonchi,10119,Alcalde,2024-10-27,445
+44,Chépica,61302,Alcalde,2024-10-27,280
+45,Cisnes,11104,Alcalde,2024-10-27,473
+46,Cobquecura,16115,Alcalde,2024-10-27,346
+47,Cochamó,10103,Alcalde,2024-10-27,446
+48,Cochrane,11106,Alcalde,2024-10-27,474
+49,Codegua,61102,Alcalde,2024-10-27,282
+50,Coelemu,16116,Alcalde,2024-10-27,347
+51,Coihueco,16110,Alcalde,2024-10-27,348
+52,Coinco,61103,Alcalde,2024-10-27,283
+53,Colbún,71302,Alcalde,2024-10-27,315
+54,Colchane,21203,Alcalde,2024-10-27,152
+55,Colina,13301,Alcalde,2024-10-27,99
+56,Collipulli,91202,Alcalde,2024-10-27,400
+57,Coltauco,61104,Alcalde,2024-10-27,284
+58,Combarbalá,41302,Alcalde,2024-10-27,177
+59,Concepción,81101,Alcalde,2024-10-27,370
+60,Conchalí,13104,Alcalde,2024-10-27,100
+61,Concón,51003,Alcalde,2024-10-27,197
+62,Constitución,71102,Alcalde,2024-10-27,316
+63,Contulmo,81203,Alcalde,2024-10-27,371
+64,Copiapó,31101,Alcalde,2024-10-27,169
+65,Coquimbo,41102,Alcalde,2024-10-27,178
+66,Coronel,81102,Alcalde,2024-10-27,372
+67,Corral,14102,Alcalde,2024-10-27,429
+68,Coyhaique,11101,Alcalde,2024-10-27,475
+69,Cunco,91103,Alcalde,2024-10-27,401
+70,Curacautín,91203,Alcalde,2024-10-27,402
+71,Curacaví,13405,Alcalde,2024-10-27,101
+72,Curaco de Vélez,10120,Alcalde,2024-10-27,447
+73,Curanilahue,81204,Alcalde,2024-10-27,373
+74,Curarrehue,91104,Alcalde,2024-10-27,403
+75,Curepto,71103,Alcalde,2024-10-27,317
+76,Curicó,71201,Alcalde,2024-10-27,318
+77,Dalcahue,10121,Alcalde,2024-10-27,448
+78,Diego de Almagro,31202,Alcalde,2024-10-27,170
+79,Doñihue,61105,Alcalde,2024-10-27,285
+80,El Bosque,13105,Alcalde,2024-10-27,102
+81,El Carmen,16104,Alcalde,2024-10-27,349
+82,El Monte,13603,Alcalde,2024-10-27,103
+83,El Quisco,56003,Alcalde,2024-10-27,198
+84,El Tabo,56004,Alcalde,2024-10-27,199
+85,Empedrado,71104,Alcalde,2024-10-27,319
+86,Ercilla,91204,Alcalde,2024-10-27,404
+87,Estación Central,13106,Alcalde,2024-10-27,104
+88,Florida,81104,Alcalde,2024-10-27,374
+89,Freire,91105,Alcalde,2024-10-27,405
+90,Freirina,31303,Alcalde,2024-10-27,171
+91,Fresia,10104,Alcalde,2024-10-27,449
+92,Frutillar,10105,Alcalde,2024-10-27,450
+93,Futaleufú,10128,Alcalde,2024-10-27,451
+94,Futrono,14110,Alcalde,2024-10-27,430
+95,Galvarino,91106,Alcalde,2024-10-27,406
+96,General Lagos,15202,Alcalde,2024-10-27,148
+97,Gorbea,91107,Alcalde,2024-10-27,407
+98,Graneros,61106,Alcalde,2024-10-27,286
+99,Guaitecas,11105,Alcalde,2024-10-27,476
+100,Hijuelas,55001,Alcalde,2024-10-27,200
+101,Hualaihué,10129,Alcalde,2024-10-27,452
+102,Hualañé,71202,Alcalde,2024-10-27,320
+103,Hualpén,81112,Alcalde,2024-10-27,375
+104,Hualqui,81105,Alcalde,2024-10-27,376
+105,Huara,21204,Alcalde,2024-10-27,153
+106,Huasco,31304,Alcalde,2024-10-27,172
+107,Huechuraba,13107,Alcalde,2024-10-27,105
+108,Illapel,41201,Alcalde,2024-10-27,179
+109,Independencia,13108,Alcalde,2024-10-27,106
+110,Iquique,21101,Alcalde,2024-10-27,154
+111,Isla de Maipo,13406,Alcalde,2024-10-27,107
+112,Isla de Pascua,52001,Alcalde,2024-10-27,201
+113,Juan Fernández,51004,Alcalde,2024-10-27,202
+114,La Cisterna,13109,Alcalde,2024-10-27,108
+115,La Cruz,55003,Alcalde,2024-10-27,203
+116,La Estrella,61202,Alcalde,2024-10-27,287
+117,La Florida,13110,Alcalde,2024-10-27,109
+118,La Granja,13111,Alcalde,2024-10-27,110
+119,La Higuera,41104,Alcalde,2024-10-27,180
+120,La Ligua,54001,Alcalde,2024-10-27,204
+121,La Pintana,13112,Alcalde,2024-10-27,111
+122,La Reina,13113,Alcalde,2024-10-27,112
+123,La Serena,41101,Alcalde,2024-10-27,181
+124,La Unión,14109,Alcalde,2024-10-27,431
+125,Lago Ranco,14111,Alcalde,2024-10-27,432
+126,Lago Verde,11102,Alcalde,2024-10-27,477
+127,Laguna Blanca,12102,Alcalde,2024-10-27,482
+128,Laja,81304,Alcalde,2024-10-27,377
+129,Lampa,13302,Alcalde,2024-10-27,113
+130,Lanco,14103,Alcalde,2024-10-27,433
+131,Las Cabras,61107,Alcalde,2024-10-27,288
+132,Las Condes,13114,Alcalde,2024-10-27,114
+133,Lautaro,91108,Alcalde,2024-10-27,408
+134,Lebu,81205,Alcalde,2024-10-27,378
+135,Licantén,71203,Alcalde,2024-10-27,321
+136,Limache,58001,Alcalde,2024-10-27,205
+137,Linares,71301,Alcalde,2024-10-27,322
+138,Litueche,61203,Alcalde,2024-10-27,289
+139,Llanquihue,10107,Alcalde,2024-10-27,453
+140,Lo Barnechea,13115,Alcalde,2024-10-27,115
+141,Lo Espejo,13116,Alcalde,2024-10-27,116
+142,Lo Prado,13117,Alcalde,2024-10-27,117
+143,Lolol,61304,Alcalde,2024-10-27,290
+144,Loncoche,91109,Alcalde,2024-10-27,409
+145,Longaví,71303,Alcalde,2024-10-27,323
+146,Lonquimay,91205,Alcalde,2024-10-27,410
+147,Los Andes,53002,Alcalde,2024-10-27,207
+148,Los Lagos,14104,Alcalde,2024-10-27,434
+149,Los Muermos,10106,Alcalde,2024-10-27,454
+150,Los Sauces,91206,Alcalde,2024-10-27,411
+151,Los Vilos,41203,Alcalde,2024-10-27,182
+152,Los Álamos,81206,Alcalde,2024-10-27,379
+153,Los Ángeles,81305,Alcalde,2024-10-27,380
+154,Lota,81106,Alcalde,2024-10-27,381
+155,Lumaco,91207,Alcalde,2024-10-27,412
+156,Machalí,61108,Alcalde,2024-10-27,291
+157,Macul,13118,Alcalde,2024-10-27,118
+158,Maipú,13119,Alcalde,2024-10-27,119
+159,Malloa,61109,Alcalde,2024-10-27,292
+160,Mariquina,14106,Alcalde,2024-10-27,436
+161,María Elena,22302,Alcalde,2024-10-27,159
+162,María Pinto,13503,Alcalde,2024-10-27,120
+163,Maule,71105,Alcalde,2024-10-27,324
+164,Maullín,10108,Alcalde,2024-10-27,455
+165,Mejillones,22102,Alcalde,2024-10-27,160
+166,Melipeuco,91110,Alcalde,2024-10-27,413
+167,Melipilla,13501,Alcalde,2024-10-27,121
+168,Molina,71204,Alcalde,2024-10-27,325
+169,Monte Patria,41303,Alcalde,2024-10-27,183
+170,Mostazal,61110,Alcalde,2024-10-27,294
+171,Mulchén,81306,Alcalde,2024-10-27,382
+172,Máfil,14105,Alcalde,2024-10-27,435
+173,Nacimiento,81307,Alcalde,2024-10-27,383
+174,Nancagua,61305,Alcalde,2024-10-27,295
+175,Navidad,61205,Alcalde,2024-10-27,296
+176,Negrete,81308,Alcalde,2024-10-27,384
+177,Ninhue,16117,Alcalde,2024-10-27,350
+178,Nogales,55004,Alcalde,2024-10-27,208
+179,Nueva Imperial,91111,Alcalde,2024-10-27,414
+180,Olivar,61111,Alcalde,2024-10-27,297
+181,Ollagüe,22202,Alcalde,2024-10-27,161
+182,Olmué,58002,Alcalde,2024-10-27,209
+183,Osorno,10110,Alcalde,2024-10-27,456
+184,Ovalle,41301,Alcalde,2024-10-27,184
+185,Padre Hurtado,13604,Alcalde,2024-10-27,123
+186,Padre Las Casas,91112,Alcalde,2024-10-27,415
+187,Paihuano,41105,Alcalde,2024-10-27,185
+188,Paillaco,14107,Alcalde,2024-10-27,437
+189,Paine,13404,Alcalde,2024-10-27,124
+190,Palena,10130,Alcalde,2024-10-27,457
+191,Palmilla,61306,Alcalde,2024-10-27,298
+192,Panguipulli,14108,Alcalde,2024-10-27,438
+193,Panquehue,57003,Alcalde,2024-10-27,210
+194,Papudo,54003,Alcalde,2024-10-27,211
+195,Paredones,61206,Alcalde,2024-10-27,299
+196,Parral,71304,Alcalde,2024-10-27,326
+197,Pedro Aguirre Cerda,13121,Alcalde,2024-10-27,125
+198,Pelarco,71106,Alcalde,2024-10-27,327
+199,Pelluhue,71403,Alcalde,2024-10-27,328
+200,Pemuco,16105,Alcalde,2024-10-27,352
+201,Pencahue,71107,Alcalde,2024-10-27,329
+202,Penco,81107,Alcalde,2024-10-27,385
+203,Peralillo,61307,Alcalde,2024-10-27,300
+204,Perquenco,91113,Alcalde,2024-10-27,416
+205,Petorca,54004,Alcalde,2024-10-27,212
+206,Peumo,61112,Alcalde,2024-10-27,301
+207,Peñaflor,13605,Alcalde,2024-10-27,126
+208,Peñalolén,13122,Alcalde,2024-10-27,127
+209,Pica,21205,Alcalde,2024-10-27,155
+210,Pichidegua,61113,Alcalde,2024-10-27,302
+211,Pichilemu,61201,Alcalde,2024-10-27,303
+212,Pinto,16106,Alcalde,2024-10-27,353
+213,Pirque,13202,Alcalde,2024-10-27,128
+214,Pitrufquén,91114,Alcalde,2024-10-27,417
+215,Placilla,61308,Alcalde,2024-10-27,304
+216,Portezuelo,16118,Alcalde,2024-10-27,354
+217,Porvenir,12105,Alcalde,2024-10-27,484
+218,Pozo Almonte,21201,Alcalde,2024-10-27,156
+219,Primavera,12106,Alcalde,2024-10-27,485
+220,Providencia,13122,Alcalde,2024-10-27,129
+221,Pucón,91115,Alcalde,2024-10-27,418
+222,Pudahuel,13123,Alcalde,2024-10-27,130
+223,Puente Alto,13201,Alcalde,2024-10-27,131
+224,Puerto Montt,10101,Alcalde,2024-10-27,458
+225,Puerto Octay,10111,Alcalde,2024-10-27,459
+226,Puerto Varas,10109,Alcalde,2024-10-27,460
+227,Pumanque,61309,Alcalde,2024-10-27,305
+228,Punitaqui,41304,Alcalde,2024-10-27,186
+229,Punta Arenas,12101,Alcalde,2024-10-27,486
+230,Puqueldón,10122,Alcalde,2024-10-27,461
+231,Purranque,10112,Alcalde,2024-10-27,462
+232,Purén,91208,Alcalde,2024-10-27,419
+233,Putaendo,57004,Alcalde,2024-10-27,214
+234,Putre,15201,Alcalde,2024-10-27,149
+235,Puyehue,10113,Alcalde,2024-10-27,463
+236,Queilén,10123,Alcalde,2024-10-27,464
+237,Quellón,10124,Alcalde,2024-10-27,465
+238,Quemchi,10125,Alcalde,2024-10-27,466
+239,Quilaco,81309,Alcalde,2024-10-27,386
+240,Quilicura,13124,Alcalde,2024-10-27,132
+241,Quilleco,81310,Alcalde,2024-10-27,387
+242,Quillota,55005,Alcalde,2024-10-27,215
+243,Quillón,16107,Alcalde,2024-10-27,355
+244,Quilpué,58003,Alcalde,2024-10-27,216
+245,Quinchao,10126,Alcalde,2024-10-27,467
+246,Quinta Normal,13125,Alcalde,2024-10-27,133
+247,Quinta de Tilcoco,61114,Alcalde,2024-10-27,306
+248,Quirihue,16119,Alcalde,2024-10-27,356
+249,Rancagua,61101,Alcalde,2024-10-27,307
+250,Rauco,71205,Alcalde,2024-10-27,330
+251,Recoleta,13126,Alcalde,2024-10-27,134
+252,Renaico,91209,Alcalde,2024-10-27,420
+253,Renca,13127,Alcalde,2024-10-27,135
+254,Rengo,61115,Alcalde,2024-10-27,308
+255,Requínoa,61116,Alcalde,2024-10-27,309
+256,Retiro,71305,Alcalde,2024-10-27,331
+257,Rinconada,53003,Alcalde,2024-10-27,218
+258,Romeral,71206,Alcalde,2024-10-27,333
+259,Ránquil,16120,Alcalde,2024-10-27,357
+260,Río Bueno,14112,Alcalde,2024-10-27,439
+261,Río Claro,71108,Alcalde,2024-10-27,332
+262,Río Hurtado,41305,Alcalde,2024-10-27,187
+263,Río Ibáñez,11110,Alcalde,2024-10-27,479
+264,Río Negro,10114,Alcalde,2024-10-27,468
+265,Río Verde,12103,Alcalde,2024-10-27,487
+266,Saavedra,91116,Alcalde,2024-10-27,421
+267,Sagrada Familia,71207,Alcalde,2024-10-27,334
+268,Salamanca,41204,Alcalde,2024-10-27,188
+269,San Antonio,56005,Alcalde,2024-10-27,219
+270,San Bernardo,13401,Alcalde,2024-10-27,136
+271,San Carlos,16112,Alcalde,2024-10-27,358
+272,San Clemente,71109,Alcalde,2024-10-27,335
+273,San Esteban,53004,Alcalde,2024-10-27,220
+274,San Fabián,16113,Alcalde,2024-10-27,359
+275,San Felipe,57005,Alcalde,2024-10-27,221
+276,San Fernando,61301,Alcalde,2024-10-27,310
+277,San Gregorio,12104,Alcalde,2024-10-27,488
+278,San Ignacio,16108,Alcalde,2024-10-27,360
+279,San Javier,71306,Alcalde,2024-10-27,336
+280,San Joaquín,13128,Alcalde,2024-10-27,137
+281,San José de Maipo,13203,Alcalde,2024-10-27,138
+282,San Juan de la Costa,10115,Alcalde,2024-10-27,469
+283,San Miguel,13129,Alcalde,2024-10-27,139
+284,San Nicolás,16114,Alcalde,2024-10-27,361
+285,San Pablo,10116,Alcalde,2024-10-27,470
+286,San Pedro,13504,Alcalde,2024-10-27,140
+287,San Pedro de Atacama,22203,Alcalde,2024-10-27,162
+288,San Pedro de la Paz,81108,Alcalde,2024-10-27,388
+289,San Rafael,71110,Alcalde,2024-10-27,337
+290,San Ramón,13130,Alcalde,2024-10-27,141
+291,San Rosendo,81311,Alcalde,2024-10-27,389
+292,San Vicente,61117,Alcalde,2024-10-27,311
+293,Santa Bárbara,81312,Alcalde,2024-10-27,390
+294,Santa Cruz,61310,Alcalde,2024-10-27,312
+295,Santa Juana,81109,Alcalde,2024-10-27,391
+296,Santiago,13101,Alcalde,2024-10-27,142
+297,Santo Domingo,56006,Alcalde,2024-10-27,223
+298,Sierra Gorda,22103,Alcalde,2024-10-27,163
+299,Talagante,13601,Alcalde,2024-10-27,143
+300,Talca,71101,Alcalde,2024-10-27,338
+301,Talcahuano,81110,Alcalde,2024-10-27,392
+302,Taltal,22104,Alcalde,2024-10-27,164
+303,Temuco,91101,Alcalde,2024-10-27,422
+304,Teno,71208,Alcalde,2024-10-27,339
+305,Teodoro Schmidt,91117,Alcalde,2024-10-27,423
+306,Tierra Amarilla,31103,Alcalde,2024-10-27,173
+307,Tiltil,13303,Alcalde,2024-10-27,144
+308,Timaukel,12107,Alcalde,2024-10-27,489
+309,Tirúa,81207,Alcalde,2024-10-27,393
+310,Tocopilla,22301,Alcalde,2024-10-27,165
+311,Toltén,91118,Alcalde,2024-10-27,424
+312,Tomé,81111,Alcalde,2024-10-27,394
+313,Torres del Paine,12109,Alcalde,2024-10-27,490
+314,Tortel,11108,Alcalde,2024-10-27,480
+315,Traiguén,91210,Alcalde,2024-10-27,425
+316,Trehuaco,16121,Alcalde,2024-10-27,362
+317,Tucapel,81313,Alcalde,2024-10-27,395
+318,Valdivia,14101,Alcalde,2024-10-27,440
+319,Vallenar,31301,Alcalde,2024-10-27,174
+320,Valparaíso,51001,Alcalde,2024-10-27,224
+321,Vichuquén,71209,Alcalde,2024-10-27,340
+322,Victoria,91211,Alcalde,2024-10-27,426
+323,Vicuña,41106,Alcalde,2024-10-27,189
+324,Vilcún,91119,Alcalde,2024-10-27,427
+325,Villa Alegre,71307,Alcalde,2024-10-27,341
+326,Villa Alemana,58004,Alcalde,2024-10-27,225
+327,Villarrica,91120,Alcalde,2024-10-27,428
+328,Vitacura,13131,Alcalde,2024-10-27,145
+329,Viña del Mar,51005,Alcalde,2024-10-27,226
+330,Yerbas Buenas,71308,Alcalde,2024-10-27,342
+331,Yumbel,81314,Alcalde,2024-10-27,396
+332,Yungay,16109,Alcalde,2024-10-27,363
+333,Zapallar,54005,Alcalde,2024-10-27,227
+334,Ñiquén,16111,Alcalde,2024-10-27,351
+335,Ñuñoa,13120,Alcalde,2024-10-27,122
