@@ -1,0 +1,26 @@
+version: 1.0
+project: Politeia Database Sync
+
+jobs:
+  - name: parse_sql_dump
+    description: Parse the local.sql dump to extract WordPress tables and relationships.
+    run: python -m scripts.sql_parser
+
+  - name: generate_election_map
+    description: Match CSV elections with WordPress elections table and create mapping file.
+    run: python -m scripts.generate_election_id_map
+
+  - name: generate_turnout_sql
+    description: Merge participation CSV with mappings and produce SQL insert/update statements.
+    run: python -m scripts.generate_turnout_sql
+
+  - name: generate_candidates_sql
+    description: Merge candidate data and produce SQL for wp_politeia_candidacies.
+    run: python -m scripts.generate_candidates_sql
+
+  - name: commit_results
+    description: Commit generated SQL files back to GitHub.
+    run: |
+      git add sql/*.sql
+      git commit -m "Automated SQL generation from Codex"
+      git push origin main
